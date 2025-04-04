@@ -6,5 +6,5 @@ tags: [AI]
 author: ecstayalive
 comments: true
 toc: true
-description: Eﬀicient Learning of A Unified Policy For Whole-body Manipulation and Locomotion Skills
+description: Efficient Learning of A Unified Policy For Whole-body Manipulation and Locomotion Skills
 ---
