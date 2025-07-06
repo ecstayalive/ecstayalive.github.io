@@ -13,6 +13,7 @@ image:
 ---
 
 # Scenery
+
 ![](assets/img/photograph/afterglow1.jpg)
 ![](assets/img/photograph/celebration1.jpg)
 ![](assets/img/photograph/moon1.jpg)
