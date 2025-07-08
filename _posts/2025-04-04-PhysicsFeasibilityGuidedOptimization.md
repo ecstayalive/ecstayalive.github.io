@@ -68,7 +68,7 @@ description: Efficient Learning of A Unified Policy For Whole-body Manipulation 
 }
 </style>
 <center>
-  <a href="#" class="gradient-btn">
+  <a href="https://arxiv.org/abs/2507.04229" class="gradient-btn">
     Paper
   </a>
 </center>
@@ -128,7 +128,7 @@ In the current system, the task of the manipulator is limited to 6d pose trackin
 
 ### What behavior of the robot does the paper mean by local optimum? And what is the behavior of the manipulation at the singularity?
 
-A example of "local optimum" can be shown when the arm is at its home position: if the target pose is shifted slightly downward, the robot won't move the arm but instead tilts its body to reduce the distance (as demonstrated in our video). Similarly, when instructed to move at specific body velocities, the arm remains static while the quadruped robot maintains tilted motion. Although the arm maintains stability near singularities, its movement becomes more fast when the target pose changes near singular points.
+A example of "local optimum" can be shown when the arm is at its home position: if the target pose is shifted slightly downward, the robot won't move the arm but instead tilts its body to reduce the distance (as demonstrated in our video). Similarly, when the robot isinstructed to move at specific velocities, the arm remains static while the quadruped robot maintains tilted motion to move. Although the arm maintains stability near singularities, its movement becomes more fast when the target pose changes near singular points.
 
 ### Does body movement affect how well the manipulator tracks?
 
